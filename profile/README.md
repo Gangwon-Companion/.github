@@ -17,7 +17,7 @@
 | Backend / AI | AI | AI |
 | :---: | :---: | :---: |
 | <a href="https://github.com/Bakhyoungwoo"><img src="https://github.com/Bakhyoungwoo.png?size=120" width="100" alt="박형우"/><br/><sub><b>박형우</b></sub></a> | <a href="https://github.com/sh9125"><img src="https://github.com/sh9125.png?size=120" width="100" alt="구승환"/><br/><sub><b>구승환</b></sub></a> | <a href="https://github.com/wan-su-2020"><img src="https://github.com/wan-su-2020.png?size=120" width="100" alt="김완수"/><br/><sub><b>김완수</b></sub></a> |
-| Spring Boot REST API, 도메인 서비스 개발<br/>AWS 인프라(EKS·CI/CD) 구축 | (역할 미정) | (역할 미정) |
+| Spring Boot REST API, 도메인 서비스 개발<br/>AWS 인프라 구축 | BE/FE | BE/FE |
 
 ## 프로젝트 배경
 
